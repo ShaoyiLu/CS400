@@ -1,9 +1,6 @@
 /**
  * This assignment is to write code that can form palindromes, palindrome is a paragraph of words
  * which reads the same regardless of whether the letters are written forward or backward.
- *
- * @author Shaoyi Lu
- *
  */
 public class Palindrome {
 
