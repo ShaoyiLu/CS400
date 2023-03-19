@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.PriorityQueue;
 import java.util.NoSuchElementException;
 
-public class CS400Graph<NodeType,EdgeType extends Number> implements GraphADT<NodeType,EdgeType> {
+public class Graph<NodeType,EdgeType extends Number> implements GraphADT<NodeType,EdgeType> {
 
     /**
      * Vertex objects group a data field with an adjacency list of weighted
