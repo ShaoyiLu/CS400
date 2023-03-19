@@ -1,10 +1,3 @@
-// --== CS400 Project One File Header ==--
-// Name: Shaoyi Lu
-// CSL Username: shaoyi
-// Email: slu248@wisc.edu
-// Lecture #: 001
-// Notes to Grader: none
-
 import org.junit.Test;
 import org.junit.jupiter.api.BeforeEach;
 import static org.junit.jupiter.api.Assertions.assertEquals;
