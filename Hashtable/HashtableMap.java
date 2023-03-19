@@ -1,10 +1,3 @@
-// --== CS400 Project One File Header ==--
-// Name: Shaoyi Lu
-// CSL Username: shaoyi
-// Email: slu248@wisc.edu
-// Lecture #: 001
-// Notes to Grader: none
-
 import java.util.LinkedList;
 import java.util.NoSuchElementException;
 
@@ -184,5 +177,4 @@ public class HashtableMap<KeyType, ValueType> implements MapADT<KeyType, ValueTy
             table[i].clear();
         }
     }
-
 }
