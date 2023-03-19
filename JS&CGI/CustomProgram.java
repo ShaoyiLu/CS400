@@ -11,20 +11,19 @@ public class CustomProgram {
         String name = "";
 
         // update list to reflect changes requested through command line args
-        // TODO: Complete this section
         if (args.length > 0)
             for (String arg : args[0].split("&")) {
                 String[] keyValuePair = arg.split("=");
                 switch (keyValuePair[0]) {
                     case "name":
-                        // TODO: when a greeting is selected (below), this
+                        // when a greeting is selected (below), this 
                         // arguments's value should be displayed in that greeting
                         if (keyValuePair.length > 1) {
                             name = keyValuePair[1];
                         }
                         break;
                     case "background":
-                        // TODO: when background="Dark", the body's color should be
+                        // when background="Dark", the body's color should be
                         // set to white and it's background-color should be set to
                         // black (the opposite of how they are set for "Light" by
                         // default.
@@ -43,7 +42,7 @@ public class CustomProgram {
                         }
                         break;
                     case "Greeting":
-                        // TODO: when this argument is present and =true, an <h1>
+                        // when this argument is present and =true, an <h1>
                         // element containing the text "Welcome Stranger" should
                         // be inserted as the first element within the body.  If
                         // a non-empty-string name is provided (see above), that
@@ -58,7 +57,7 @@ public class CustomProgram {
                         }
                         break;
                     case "SuppressOptions":
-                        // TODO: when this argument is present and =true, the
+                        // when this argument is present and =true, the
                         // customization controls should be removed from the page.
                         // Everything from and including the <h1> label through the
                         // final </ul> should be omitted to accomplish this.
