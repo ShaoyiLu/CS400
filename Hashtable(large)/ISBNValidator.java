@@ -1,11 +1,3 @@
-/**
- * This class checks whether a provided ISBN13 number is valid or not
- *
- * @author Michael Song
- * revised by Zhimin Hu
- * add more constrains to handle more invalid ISBN13 inputs
- *
- */
 public class ISBNValidator implements IISBNValidator {
 
     /**
