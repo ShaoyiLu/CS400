@@ -1,10 +1,3 @@
-// --== CS400 Project One File Header ==--
-// Name: Shaoyi Lu
-// CSL Username: shaoyi
-// Email: slu248@wisc.edu
-// Lecture #: 001
-// Notes to Grader: none
-
 import java.io.FileNotFoundException;
 import java.util.List;
 import java.util.Scanner;
