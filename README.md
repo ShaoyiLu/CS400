@@ -1,2 +1,2 @@
 # CS400
-Programming in Java
+Data Structure
