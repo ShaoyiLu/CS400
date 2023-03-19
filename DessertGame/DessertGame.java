@@ -36,7 +36,6 @@ public class DessertGame extends Application {
         borderPane.setCenter(pane);
         BorderPane.setAlignment(pane, Pos.CENTER);
 
-        // TODO: Step 7-10
         // Step 7
         Button button[] = new Button[8];
         Random random = new Random();
