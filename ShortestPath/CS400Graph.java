@@ -1,11 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: Shaoyi Lu
-// Email: slu248@wisc.edu
-// Team: AD
-// TA: Yuye
-// Lecturer: Gary
-// Notes to Grader: <optional extra notes>
-
 import java.util.Hashtable;
 import java.util.List;
 import java.util.LinkedList;
