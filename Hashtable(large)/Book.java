@@ -1,7 +1,5 @@
 /**
- * this class represents a IBook object and its corresponding data attributes, which are title,
- * author and ISBN13
- *
+ * this class represents a IBook object and its corresponding data attributes, which are title, author and ISBN13
  */
 public class Book implements IBook{
 
@@ -12,7 +10,6 @@ public class Book implements IBook{
 
     /**
      * Constructor of the IBook with no parameter.
-     *
      */
     Book() {
         this.title = null;
@@ -42,8 +39,7 @@ public class Book implements IBook{
     }
 
     /**
-     * Returns a string that contains the authors of the book as a single string with different
-     * authors separated by /.
+     * Returns a string that contains the authors of the book as a single string with different authors separated by /.
      *
      * @return author names as single string
      */
