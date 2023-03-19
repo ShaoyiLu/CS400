@@ -1,10 +1,3 @@
-// --== CS400 Project One File Header ==--
-// Name: Yingjie Dai
-// CSL Username: ydai
-// Email: ydai69@wisc.edu
-// Lecture #: 001 @11:00am
-// Notes to Grader: <any optional extra notes to your grader>
-
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.List;
