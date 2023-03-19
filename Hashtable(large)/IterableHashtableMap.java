@@ -5,10 +5,6 @@ import java.util.NoSuchElementException;
 /**
  * This class allows for an iterator to go through the contents of a Hashtable
  *
- * @author Michael Song
- * revised by Zhimin Hu 2022/10/13
- * rewrite the next() and the hasNext()
- *
  * @param <KeyType>
  * @param <ValueType>
  */
@@ -18,9 +14,6 @@ public class IterableHashtableMap<KeyType, ValueType> extends HashtableMap<KeyTy
 
     /**
      * This class functions an iterator that is able to iterate through a hashtable
-     *
-     * @author Michael Song
-     *
      */
     class HashIterator implements Iterator<ValueType> {
 
