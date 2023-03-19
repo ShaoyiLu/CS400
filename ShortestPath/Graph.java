@@ -35,7 +35,7 @@ public class Graph<NodeType,EdgeType extends Number> implements GraphADT<NodeTyp
     }
 
     protected Hashtable<NodeType, Vertex> vertices; // holds graph verticies, key=data
-    public CS400Graph() {
+    public Graph() {
         vertices = new Hashtable<>();
     }
 
