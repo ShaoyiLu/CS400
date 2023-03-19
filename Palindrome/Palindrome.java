@@ -1,30 +1,3 @@
-//////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
-//
-// Title: P04 Palindrome
-// Course: CS 300 Summer 2022
-//
-// Author: Shaoyi Lu
-// Email: slu248@wisc.edu
-// Lecturer: Michelle Jensen
-//
-//////////////////// PAIR PROGRAMMERS COMPLETE THIS SECTION ///////////////////
-//
-// Partner Name: none
-// Partner Email: none
-// Partner Lecturer's Name: none
-//
-// VERIFY THE FOLLOWING BY PLACING AN X NEXT TO EACH TRUE STATEMENT:
-// ___ Write-up states that pair programming is allowed for this assignment.
-// ___ We have both read and understand the course Pair Programming Policy.
-// ___ We have registered our team prior to the team registration deadline.
-//
-///////////////////////// ALWAYS CREDIT OUTSIDE HELP //////////////////////////
-//
-// Persons: none
-// Online Sources: none
-//
-///////////////////////////////////////////////////////////////////////////////
-
 /**
  * This assignment is to write code that can form palindromes, palindrome is a paragraph of words
  * which reads the same regardless of whether the letters are written forward or backward.
